@@ -1,3 +1,8 @@
+
+<img width="1899" height="851" alt="Screenshot 2026-02-07 135745" src="https://github.com/user-attachments/assets/aad0affd-71ac-4a62-8284-de3905c4416c" />
+
+
+
 # future_ux_03 
 
 # 🧩 AgencyCRM – Client Management Dashboard UI
